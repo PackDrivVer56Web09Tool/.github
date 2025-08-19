@@ -1,0 +1,2 @@
+# .github
+finitive good gob
